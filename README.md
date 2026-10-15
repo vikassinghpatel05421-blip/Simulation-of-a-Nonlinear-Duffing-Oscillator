@@ -20,7 +20,7 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | . | . | rec banda. | . | .
 2 | . | . | . | . | .
 Vikas patel
 hello
